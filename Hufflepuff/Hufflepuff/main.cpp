@@ -1,15 +1,15 @@
 //
-//  main.c
+//  main.cpp
 //  Hufflepuff
 //
-//  Created by Keegan Ritchie on 2016-11-27.
+//  Created by Keegan Ritchie on 2016-11-28.
 //  Copyright © 2016 Keegan Ritchie. All rights reserved.
 //
 
-#include <stdio.h>
+#include <iostream>
 
 int main(int argc, const char * argv[]) {
         // insert code here...
-        printf("Hello, World!\n");
+        std::cout << "Hello, World!\n";
     return 0;
 }

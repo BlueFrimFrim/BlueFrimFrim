@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "8C0458D01DEBA1FD0053C24C"
+               BlueprintIdentifier = "8C73A1461DED4A9800770F79"
                BuildableName = "Hufflepuff"
                BlueprintName = "Hufflepuff"
                ReferencedContainer = "container:Hufflepuff.xcodeproj">
@@ -32,7 +32,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8C0458D01DEBA1FD0053C24C"
+            BlueprintIdentifier = "8C73A1461DED4A9800770F79"
             BuildableName = "Hufflepuff"
             BlueprintName = "Hufflepuff"
             ReferencedContainer = "container:Hufflepuff.xcodeproj">
@@ -55,7 +55,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8C0458D01DEBA1FD0053C24C"
+            BlueprintIdentifier = "8C73A1461DED4A9800770F79"
             BuildableName = "Hufflepuff"
             BlueprintName = "Hufflepuff"
             ReferencedContainer = "container:Hufflepuff.xcodeproj">
@@ -74,7 +74,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8C0458D01DEBA1FD0053C24C"
+            BlueprintIdentifier = "8C73A1461DED4A9800770F79"
             BuildableName = "Hufflepuff"
             BlueprintName = "Hufflepuff"
             ReferencedContainer = "container:Hufflepuff.xcodeproj">

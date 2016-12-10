@@ -1,2 +1,2 @@
-# Hufflepuff
-Massive Library of random stuff
+# BlueFrimFrim
+It's a library of many things.
